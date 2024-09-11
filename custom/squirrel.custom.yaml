@@ -42,6 +42,8 @@ patch:
     #comment_font_face: 'Lucida Grande'
     comment_font_point: 18
 
+    candidate_list_layout: linear # 候选排布：层叠 stacked | 行 linear
+
   # 皮肤列表
   preset_color_schemes:
     macos_light:
